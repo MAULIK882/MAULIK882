@@ -1,12 +1,13 @@
 # Hi there! 👋
 
-![GitHub Streak](https://streak-stats.demolab.com?user=maulik882&ring=EB5454&border=7CEB90&sideLabels=3368EB)
+[![GitHub Streak](https://github-readme-streak-stats-rho-tawny.vercel.app?user=Maulik882&theme=synthwave)](https://git.io/streak-stats)
 
-## About Me
-- 🔭 I’m currently working on ... Quiz App
-- 🌱 I’m learning ... Python, React
-- 💬 Ask me about ... 😉 
-- 📫 How to reach me: ... admin@brandsart.in
+## Currently Working On
+- 🚀 Quiz App  
+- 🐍 Learning Python and React  
 
 ## GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=maulik882&show_icons=true&theme=radical)
+
+## How to Reach Me  
+📧 admin@brandsart.in  
